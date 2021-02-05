@@ -1,0 +1,7 @@
+chr - hGorDon GorDon 0 28 green
+chr - hKate Kate 0 28 blue
+chr - hBohince Bohince 0 28 purple
+chr - hBlacka Blacka 0 28 orange
+chr - hShawna Shawna 0 26 vvlred
+chr - hDrew Drew 0 29 yellow
+chr - hKristen Kristen 0 31 vdpurple
